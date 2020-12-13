@@ -1,0 +1,16 @@
+.Book-Cards{
+    border: 2px solid mediumpurple;
+    width: 250px;
+    padding: 10px;
+    margin: 1rem;
+    box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+}
+.imageBook{
+    width: 200px;
+    height: 300px;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
